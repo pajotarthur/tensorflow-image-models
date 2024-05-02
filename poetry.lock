@@ -1534,4 +1534,4 @@ docs = ["sphinx", "sphinx-rtd-theme"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9,<3.12"
-content-hash = "e40b8bd759260399f70da2263592afdab68ba1c5ee28c2130043d6ac49d26f6f"
+content-hash = "9f9cfa174e6dad69c9296af285cfe4f2c1b8b040983252659e5280fe3edd7b20"
